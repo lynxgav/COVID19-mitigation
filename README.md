@@ -9,7 +9,12 @@ https://www.medrxiv.org/content/10.1101/2020.03.12.20034827v1
 
 The model was coded in Mathematica 10.0.2.0 on Mac OS X El Capitan Version 10.11.5.
 
-Author: Dr Ganna Rozhnova, University Medical Center Utrecht, Utrecht, The Netherlands; g.rozhnova@umcutrecht.nl
-Date: 16 March 2020
+Author of the mathematica notebook file: 
 
-In case of questions you are welcome to email Dr Ganna Rozhnova. 
+Dr Ganna Rozhnova 
+University Medical Center Utrecht, Utrecht, The Netherlands 
+g.rozhnova@umcutrecht.nl
+
+Last update: 16 March 2020
+
+In case of questions you are welcome to email me. 
