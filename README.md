@@ -1,11 +1,10 @@
 # COVID19-mitigation
 
-The model code reproducing the results and figures in the manuscript published on MedRxiv
+The model code reproducing the results and figures in the article 
 
-"Impact of self-imposed prevention measures and short-term government intervention on mitigating and delaying a COVID-19 epidemic" by Alexandra Teslya, Thi Mui Pham, Noortje G. Godijk, Mirjam E. Kretzschmar, Martin C.J. Bootsma and Ganna Rozhnova  
-doi: https://doi.org/10.1101/2020.03.12.20034827
-
-https://www.medrxiv.org/content/10.1101/2020.03.12.20034827v1
+Impact of self-imposed prevention measures and short-term government-imposed social distancing on mitigating and delaying a COVID-19 epidemic: A modelling study
+A Teslya, TM Pham, NG Godijk, ME Kretzschmar, MCJ Bootsma & G Rozhnova
+PLOS Medicine 17(7), e1003166 (2020)
 
 The model was coded in Mathematica 10.0.2.0 on Mac OS X El Capitan Version 10.11.5.
 
